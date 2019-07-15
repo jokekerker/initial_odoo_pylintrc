@@ -545,4 +545,4 @@ overgeneral-exceptions=Exception
 
 [pre-commit-hook]
 limit=9.0
-valid_odoo_versions=10.0
+valid_odoo_versions=12.0
